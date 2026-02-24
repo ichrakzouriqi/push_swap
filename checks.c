@@ -65,3 +65,4 @@ void	check_sec(t_node *stack_a)
 		error(1);
 	}
 }
+

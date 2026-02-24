@@ -118,3 +118,4 @@ int	t_nodeline(t_node *stack)
 	}
 	return (i);
 }
+

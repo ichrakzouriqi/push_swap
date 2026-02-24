@@ -83,3 +83,4 @@ char	*get_next_line(int fd)
 	stock = NULL;
 	return (line);
 }
+

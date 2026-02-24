@@ -29,3 +29,4 @@ void	rrr(t_node **stack_a, t_node **stack_b, char c)
 	*stack_a = rra_b(*stack_a, c);
 	*stack_b = rra_b(*stack_b, c);
 }
+

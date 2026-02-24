@@ -48,3 +48,4 @@ int	main(int argc, char **argv)
 	let_sort(stack_a, stack_b);
 	return (0);
 }
+

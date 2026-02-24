@@ -107,3 +107,4 @@ int	if_repetition(t_node *stack)
 	}
 	return (0);
 }
+

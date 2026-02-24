@@ -122,3 +122,4 @@ void	sort_5(t_node **stack_a, t_node **stack_b)
 	pa_b(stack_b, stack_a, 'a');
 	pa_b(stack_b, stack_a, 'a');
 }
+

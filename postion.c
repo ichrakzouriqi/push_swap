@@ -121,3 +121,4 @@ void	fil_rank(t_node *stack)
 	free(arr);
 	arr = NULL;
 }
+

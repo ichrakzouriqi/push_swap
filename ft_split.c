@@ -87,3 +87,4 @@ char	**ft_split(char *s, char c)
 	split_part(tab, s, c);
 	return (tab);
 }
+

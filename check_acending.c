@@ -41,3 +41,4 @@ void	setranking(s_node *stack_a, int *list)
 		i++;
 	}
 }
+
